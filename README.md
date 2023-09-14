@@ -1,5 +1,5 @@
 # sales-prediction
-A machine learning algorithm that is going to help us predict some sales 
+A machine learning algorithm that is going to help us predict sales of the various food items inthe data set
 # Below is an image describing correlation in the data set
 ![xcxc](https://github.com/ainejerry/sales-prediction/assets/139913684/24a6ff5d-acb1-446b-91ef-e9e38bfe6e56)
 ### we see a moderate correlation between item oulet sales and the item mrp
